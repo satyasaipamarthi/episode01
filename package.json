@@ -1,0 +1,30 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "Learning React Epsiode 01 and 02",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/satyasaipamarthi/episode01.git"
+  },
+  "author": "Satyasai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satyasaipamarthi/episode01/issues"
+  },
+  "homepage": "https://github.com/satyasaipamarthi/episode01#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist": [
+    "last 2 Chrome versions"
+  ]
+}
